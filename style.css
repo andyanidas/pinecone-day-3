@@ -1,0 +1,27 @@
+.green-text {
+  color: green;
+}
+.yellow-text {
+  color: yellow;
+}
+
+.yellow-bg {
+  background-color: yellow;
+}
+.green-bg {
+  background-color: green;
+}
+.text2 {
+  display: inline-block;
+}
+.text2:hover {
+  background-color: blueviolet;
+}
+
+img {
+  width: 300px;
+}
+
+img:hover {
+  width: 600px;
+}
